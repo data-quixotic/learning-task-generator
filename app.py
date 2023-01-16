@@ -6,7 +6,7 @@ import requests
 import re
 
 # Set up OpenAI API client
-openai.api_key = "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"
+openai.api_key = API_KEY
 
 
 test_list = ["Task Number One", "Task Number Two", "Task Number Three", "Task Number Four"]
